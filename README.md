@@ -1,8 +1,5 @@
-# Flight-Reservation-System
-Flight Reservation System - C++17 Application with Advanced Data Structures
-# ✈️ Flight Reservation System
-
-A comprehensive C++ application simulating a Flight Reservation System. .
+# ✈️ Flight-Reservation-System
+A comprehensive C++ application simulating a Flight Reservation System. - C++17 Application with Advanced Data Structures
 
 ## 📁 File Structure
 
