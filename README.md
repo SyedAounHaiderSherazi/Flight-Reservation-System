@@ -62,5 +62,5 @@ These external files are used to load and save data across different sessions.
 1. Place all necessary `.txt` files in the same directory.
 2. Compile the code using a C++ compiler:
    ```bash
-   g++ -std=c++11 23L-2595.cpp -o FlightReservationSystem
+   g++ -std=c++11 FlightReservationSystem.cpp -o FlightReservationSystem
 
